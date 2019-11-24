@@ -1,0 +1,39 @@
+
+
+Grafo grafo_teste_7.txt
+Este grafo não é bipartido!
+
+Grafo grafo_teste_8.txt
+Este grafo não é bipartido!
+
+Grafo grafo_teste_9.txt
+Este grafo não é bipartido!
+
+Grafo grafo_teste_10.txt
+Qtd emparelhamentos: 500000
+Tempo: 142.42350006103516 seg
+
+Grafo ER_50.txt
+Ciclo Negativo: Sim, Distância (1,10): -210.97000000000014, Tempo: 0.006074190139770508
+Ciclo Negativo: Sim, Distância (2,20): -217.5000000000002, Tempo: 0.017198562622070312
+Ciclo Negativo: Sim, Distância (3,30): -191.37000000000018, Tempo: 0.011120080947875977
+
+Grafo ER_100.txt
+Ciclo Negativo: Sim, Distância (1,10): -1130.9, Tempo: 0.07525634765625
+Ciclo Negativo: Sim, Distância (2,20): -1140.0700000000002, Tempo: 0.07969450950622559
+Ciclo Negativo: Sim, Distância (3,30): -1140.2700000000004, Tempo: 0.0975179672241211
+
+Grafo ER_500.txt
+Ciclo Negativo: Sim, Distância (1,10): -19488.409999999723, Tempo: 3.436134099960327
+Ciclo Negativo: Sim, Distância (2,20): -19489.309999999718, Tempo: 3.481639862060547
+Ciclo Negativo: Sim, Distância (3,30): -19461.279999999722, Tempo: 3.436601161956787
+
+Grafo ER_1000.txt
+Ciclo Negativo: Sim, Distância (1,10): -56163.80999999606, Tempo: 18.240775108337402
+Ciclo Negativo: Sim, Distância (2,20): -56224.02999999606, Tempo: 16.43554425239563
+Ciclo Negativo: Sim, Distância (3,30): -56227.17999999604, Tempo: 18.071754217147827
+
+Grafo ER_1500.txt
+Ciclo Negativo: Sim, Distância (1,10): -96216.73000000526, Tempo: 52.37981104850769
+Ciclo Negativo: Sim, Distância (2,20): -96199.44000000524, Tempo: 50.665462493896484
+Ciclo Negativo: Sim, Distância (3,30): -96191.60000000527, Tempo: 50.55256271362305
