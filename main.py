@@ -2,7 +2,7 @@
 
 import time
 from math import sqrt
-#from heap import *
+from heap import *
 import random
 from copy import deepcopy
 
